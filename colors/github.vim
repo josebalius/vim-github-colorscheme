@@ -58,7 +58,7 @@ hi DiffDelete ctermfg=252 ctermbg=224   guifg=#DDCCCC guibg=#FFDDDD gui=none    
 " {{{ Syntax highlighting
 hi Ignore   ctermfg=8 guifg=#808080
 hi Identifier   ctermfg=31 guifg=#0086B3
-hi PreProc  ctermfg=247 guifg=#A0A0A0 gui=bold cterm=bold
+hi PreProc  ctermfg=247 guifg=#000000 gui=bold cterm=bold
 hi Comment  ctermfg=246 guifg=#999988
 hi Constant ctermfg=6 guifg=#177F80 gui=none cterm=none
 hi String   ctermfg=161 guifg=#D81745
